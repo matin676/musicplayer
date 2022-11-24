@@ -130,5 +130,11 @@ let allMusic = [
         artist: "Sia",
         img: "music-22",
         src: "music-22",
+    },
+    {
+        name: "Bones",
+        artist: "Imagine Dragons",
+        img: "music-23",
+        src: "music-23",
     }
 ]
