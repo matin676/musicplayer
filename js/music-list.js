@@ -136,5 +136,11 @@ let allMusic = [
         artist: "Imagine Dragons",
         img: "music-23",
         src: "music-23",
+    },
+    {
+        name: "On my own",
+        artist: "Jaden smith Λ Kid cudi",
+        img: "music-24",
+        src: "music-24",
     }
 ]
