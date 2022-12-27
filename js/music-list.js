@@ -54,8 +54,8 @@ let allMusic = [
         src: "music-9",
     },
     {
-        name: "I like me Better",
-        artist: "Lauv",
+        name: "I am Ready",
+        artist: "Jaden Smith",
         img: "music-10",
         src: "music-10",
     },
