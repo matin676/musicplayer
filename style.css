@@ -62,7 +62,7 @@ body{
 
 .img-area{
     height: 323px;
-    width: 90%;
+    width: 100%;
     margin-top: 25px;
     overflow: hidden;
     border-radius: 50%;
@@ -92,7 +92,7 @@ body{
 
 .progress-area{
     height: 6px;
-    width: 100%;
+    width: 90%;
     background: #f0f0f0;
     border-radius: 50px;
     cursor: pointer;
