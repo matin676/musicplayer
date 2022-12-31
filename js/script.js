@@ -3,6 +3,7 @@ const wrapper = document.querySelector(".wrapper"),
   musicName = wrapper.querySelector(".song-details .name"),
   musicArtist = wrapper.querySelector(".song-details .artist"),
   mainAudio = wrapper.querySelector("#main-audio"),
+  audioDownload = wrapper.querySelector("#audio-download"),
   playPauseBtn = wrapper.querySelector(".play-pause"),
   prevBtn = wrapper.querySelector("#prev"),
   nextBtn = wrapper.querySelector("#next"),
@@ -24,6 +25,7 @@ function loadMusic(indexNumb) {
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicImg.src = `images/${allMusic[indexNumb - 1].img}.jpg`;
   mainAudio.src = `songs/${allMusic[indexNumb - 1].src}.mp3`;
+  audioDownload.href = `songs/${allMusic[indexNumb - 1].src}.mp3`;
 }
 
 function playMusic() {

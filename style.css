@@ -62,7 +62,7 @@ body{
 
 .img-area{
     height: 323px;
-    width: 100%;
+    width: 90%;
     margin-top: 25px;
     overflow: hidden;
     border-radius: 50%;
@@ -132,6 +132,20 @@ body{
 .timer span{
     font-size: 13px;
     color: var(--lightblack);
+}
+
+.download{
+    width: 10%;
+    position: relative;
+    color: var(--violet);
+    left: 94%;
+    top: -8.5px;
+}
+
+.download i{
+    position: relative;
+    font-size: 20px;
+    color: linear-gradient(var(--pink) 0%, var(--violet)100%);
 }
 
 .controls{

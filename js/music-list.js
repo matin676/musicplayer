@@ -121,7 +121,7 @@ let allMusic = [
     },
     {
         name: "Want me",
-        artist: "Jimmy Hardwind Λ Mike Archangelo",
+        artist: "JimmyHardwind Λ MikeArchangelo",
         img: "music-21",
         src: "music-21",
     },
