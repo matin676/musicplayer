@@ -144,7 +144,7 @@ body{
 
 .download i{
     position: relative;
-    font-size: 20px;
+    font-size: 25px;
     color: linear-gradient(var(--pink) 0%, var(--violet)100%);
 }
 
