@@ -139,8 +139,14 @@ let allMusic = [
     },
     {
         name: "On my own",
-        artist: "Jaden smith Λ Kid cudi",
+        artist: "Jaden Smith Λ Kid Cudi",
         img: "music-24",
         src: "music-24",
+    },
+    {
+        name: "Heatwaves",
+        artist: "Glass Animals Λ iann dior",
+        img: "music-25",
+        src: "music-25",
     }
 ]
